@@ -1,0 +1,14 @@
+{
+  "name": "fora-app-knx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@gitlab.teerm.info:7022/sas/fora-app-knx.git",
+  "author": "Sergii Savchenko <sergii.savchenko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async-mqtt": "^2.0.0",
+    "axios": "^0.18.0",
+    "knx": "^2.3.1",
+    "mqtt": "^2.18.8"
+  }
+}
